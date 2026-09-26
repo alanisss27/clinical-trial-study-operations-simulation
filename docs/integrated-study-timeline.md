@@ -1,0 +1,74 @@
+# Integrated Study Timeline + Milestone Tracker ? SIM-001
+
+**Step 3 complete. Reporting as of April 12, 2027.** Independent fictional simulation; not professional clinical-trial management experience. Step 4 (RACI + Governance) has not started.
+
+## Controls and interpretation
+
+Canonical inputs: existing `docs/study-assumptions.md`, sections 2?5. The approved courier exercise remains separate and does not amend this schedule. All dates below are in 2027. The original baseline is retained; post-issue means priority lab recovery before enrollment mitigation. Current forecast includes the approved mitigation. Variance is current forecast minus baseline in **calendar days**, independent of delivery health.
+
+Only explicit source evidence dated on or before April 12 supports Completed. Future scripted outcomes remain forecasts in this snapshot. M01/M02 have no explicit actual-completion evidence: their past target dates do not establish completion. Open means completion is not evidenced, not a claim that work has or has not started. Health is not assessed for these past targets pending actual-status evidence, or for completed milestones.
+
+Delivery health: **On Track** means no evidence currently threatens the forecast; **At Risk** means evidence threatens a dependency deadline or insufficient buffer makes an unresolved dependency materially threaten delivery; **Blocked** means a required prerequisite is currently preventing necessary work. A future predecessor or pending confirmation alone is not a blocker or risk. Baseline lateness alone does not determine health. Pending ACT-05 confirmation is tracked separately and does not automatically change health.
+
+Planning uses Monday?Friday, without holiday exclusions. Supporting-activity dates explicitly labeled PM-approved planning are approved targets, not canonical historical facts. Final reconciliation is schedule-sensitive: earlier rolling cleaning is essential within the established September 28?October 12 window. No additional float or validated staffing capacity is assumed.
+
+## Milestone tracker
+
+Owners below identify coordination/execution and retained approval authority, not a new RACI. ??? means not evidenced or not applicable.
+
+| ID | Milestone | Owner / authority | Baseline | Post-issue | Current forecast | Variance (calendar days) | Actual | Completion status | Delivery health | Dependencies / acceptance condition |
+|---|---|---|---|---|---|---:|---|---|---|---|
+| M01 | Startup kickoff | Study Lead / Sponsor | 2027-01-11 | 2027-01-11 | 2027-01-11 | 0 | ? | Actual unverified | ? | Sponsor authorizes planning scope and resources |
+| M02 | Operational baseline approved | Study Lead / Sponsor | 2027-02-05 | 2027-02-05 | 2027-02-05 | 0 | ? | Actual unverified | ? | M01; study documents, responsibilities, vendor scope, and schedule assumptions agreed |
+| M03 | Central-lab readiness package accepted | Lab / Sponsor acceptance | 2027-03-19 | 2027-04-02 | 2027-04-02 | 14 | 2027-04-02 | Completed | ? | M02; released manual and kits, accepted accessioning test, first-site kit receipt, and shipment-readiness evidence |
+| M04 | First site activated: AV-S01 | CRO + AV-S01 / Sponsor authorization | 2027-04-02 | 2027-04-09 | 2027-04-09 | 7 | 2027-04-09 | Completed | ? | M03 plus site approvals, agreement, training, EDC access, product availability, and sponsor authorization |
+| M05 | First-dose readiness confirmed | Study Lead + AV-S01 / medical oversight | 2027-04-09 | 2027-04-16 | 2027-04-16 | 7 | ? | Open | On Track | M04; complete supplies, trained staff, visit coordination, and required medical/safety readiness |
+| M06 | First participant receives initial administration | AV-S01 investigator/site team | 2027-04-12 | 2027-04-19 | 2027-04-19 | 7 | ? | Open | On Track | M05; participant enrolled at Week -1 (baseline 2027-04-05; forecast 2027-04-12), with participant-specific readiness reconfirmed |
+| M07 | All four sites activated | CRO + sites / Sponsor authorization | 2027-04-23 | 2027-04-23 | 2027-04-23 | 0 | ? | Open | On Track | M03 and M04; each remaining site's prerequisites and sponsor authorization completed |
+| M08 | Enrollment complete | Sites / Study Lead coordination | 2027-05-14 | 2027-05-21 | 2027-05-18 | 4 | ? | Open | On Track | M04 and M07; 36 eligible, consented participants enrolled across all groups/sites at their Week -1 visits; no administration-completion claim |
+| M08A | Initial-dose completion | Sites / investigator oversight | 2027-05-21 | 2027-05-28 | 2027-05-25 | 4 | ? | Open | On Track | M06 and M08; all 36 receive their initial assigned administration, seven calendar days after their respective enrollment visits |
+| M09 | Interim data-cleaning review complete | Data management | 2027-06-25 | 2027-07-02 | 2027-06-29 | 4 | ? | Open | On Track | M08A plus 35 calendar days; data through initial administration reviewed, due lab transfers loaded, remaining follow-up queries assigned |
+| M08B | Full scheduled administration completion | Sites / investigator oversight | 2027-07-16 | 2027-07-23 | 2027-07-20 | 4 | ? | Open | On Track | M08A plus 56 calendar days for the last baseline participant; all 36 complete initial administration and both boosters (108 administrations total) |
+| M10 | Last participant last visit (LPLV) | Sites | 2027-09-10 | 2027-09-17 | 2027-09-14 | 4 | ? | Open | On Track | M08A plus 112 calendar days; final participant completes Week 16 EOS; M08B complete under the all-complete assumption; not gated by M09 |
+| M11 | Final data and safety reconciliation complete | Data management + Safety | 2027-10-08 | 2027-10-15 | 2027-10-12 | 4 | ? | Open | On Track | M09 and M10; final lab transfer accepted 14 days after M10, then 14 days for final reconciliation, material query resolution, and safety sign-off |
+| M12 | Database locked | Data management / Sponsor sign-offs | 2027-10-15 | 2027-10-22 | 2027-10-19 | 4 | ? | Open | On Track | M11 plus 7 calendar days; sponsor, data management, statistical, and required clinical/safety sign-offs |
+| M13 | Statistical summary delivered | Biostatistics | 2027-11-12 | 2027-11-19 | 2027-11-16 | 4 | ? | Open | On Track | M12 plus 28 calendar days; locked data received and planned summary reviewed |
+| M14 | All site closeout activities complete | CRO + sites | 2027-11-26 | 2027-12-03 | 2027-11-30 | 4 | ? | Open | On Track | M11 and M12; 42 calendar days after M12 for monitoring findings, product accountability, and required site records |
+| M15 | Final study-file reconciliation and archival handoff | Study Lead + CRO | 2027-12-17 | 2027-12-24 | 2027-12-21 | 4 | ? | Open | On Track | M13 and M14; 21 calendar days after M14; required deliverables accepted and outstanding operational actions closed |
+
+**Completion evidence:** The canonical scripted outcome explicitly records LAB-D01 acceptance/ISS-01 resolution on April 2 and AV-S01 activation on April 9. April 16 readiness and April 19 first administration are future events relative to this snapshot. First enrollment on April 12 is a forecast, not a confirmed actual.
+
+## Supporting activities and dependencies
+
+Only material readiness, ownership, and dependency activities are included. Established dates below retain their canonical meaning; PM-approved dates are review-ready deliverable targets within the unchanged milestone windows. No baseline or schedule variance is invented for newly planned activities.
+
+| Reference | Supporting activity | Owner | Due date / window | Date basis | Dependency ? milestone protected | As-of status / delivery health |
+|---|---|---|---|---|---|---|
+| ACT-01 | Correct mapping/labels, retest, and obtain lab quality release | Lab / lab quality | Mar 26 | Established | DEC-01 Mar 15 ? ACT-02 / M03 | Completed Mar 26: explicit passing retest and release; health ? |
+| ACT-02 / LAB-D01 | Deliver released AV-S01 kits and acceptance evidence | Lab + logistics / Sponsor acceptance | Apr 2 | Established | ACT-01 ? M03 | Completed Apr 2: receipt and acceptance explicit; health ? |
+| ACT-03 | Independent startup checks, followed by lab-specific training/readiness review | CRO + AV-S01 / Study Lead coordination | Apr 5?9 for package-specific review | Established | Independent checks run in parallel; M03 precedes package-specific review ? M04 | Activation evidenced Apr 9; separate task-completion record not asserted; health ? |
+| ACT-04 | Record approved recovery targets, communicate, and monitor recovery; confirm first-dose readiness | Study Lead + AV-S01 | Mar 15 targets; daily through Apr 2; readiness Apr 16 | Established | DEC-01; M03/M04 ? M05/M06 | Open: readiness still future; On Track |
+| SUP-01 | Confirm remaining sites' kit receipt, training, access, approvals, and product readiness | CRO + sites, lab, logistics, data management | **Apr 14** | **PM-approved planning** | M03; parallel site preparation ? Sponsor authorization / M07 Apr 23 | Open; On Track |
+| SUP-02 | Coordinate first enrollment and readiness for initial administration | AV-S01 investigator/site team + Study Lead | Enrollment Apr 12; readiness Apr 16; administration Apr 19 | Established | M04 ? Week -1 enrollment ? M05/M06; eligibility and medical readiness required | Open; On Track; enrollment actual not evidenced |
+| ACT-05 | Reserve added appointments and confirm full downstream visit capacity | AV-S01 investigator/coordinator + CRO + logistics | Reservation Apr 23; full confirmation May 14 | Established | Staff, investigator, pickup, participant availability ? May 18 enrollment / May 25 administration and downstream forecasts | Open; On Track; capacity confirmation pending separately |
+| SUP-03 | Deliver rolling enrollment, administrations, and follow-up within approved capacity | Sites / investigators; CRO coordination | Enrollment May 18; initial-dose completion May 25; full administration Jul 20; EOS Sep 14 | Established forecasts | Site activation + ACT-05 + individual readiness ? M08/M08A/M08B/M10 | Open; On Track; conditional capacity and all-complete assumptions |
+| SUP-04 | Review initial-administration data, load due lab transfers, and prepare query assignments | Data management + lab + sites | **Jun 24** | **PM-approved planning** | Rolling review; M08A May 25 enables complete initial-dose coverage ? M09 Jun 29 | Open; On Track |
+| SUP-05 | Deliver and accept final lab transfer | Lab + data management | Sep 28 | Established forecast | M10 Sep 14 + 14 calendar days ? final reconciliation / M11 | Open; On Track |
+| SUP-06 | Prepare final reconciliation evidence and resolve material queries | Data management + lab + sites + Safety | **Oct 5** | **PM-approved planning** | Earlier rolling cleaning + final transfer Sep 28 ? M11 Oct 12 sign-off | Open; On Track; schedule-sensitive, earlier cleaning required |
+| SUP-07 | Assemble database-lock approvals | Data management + Sponsor + statistics + clinical/safety reviewers | **Oct 15** | **PM-approved planning** | Preparation may precede M11; final approvals depend on M11 Oct 12 ? M12 Oct 19 | Open; On Track; tight approval window |
+| SUP-08 | Submit statistical summary for final review | Biostatistics | **Nov 10** | **PM-approved planning** | M12 Oct 19 ? M13 Nov 16 | Open; On Track |
+| SUP-09 | Assemble closeout evidence, resolved findings, and product accountability | CRO + sites | **Nov 16** | **PM-approved planning** | M11 and M12; parallel with analysis ? M14 Nov 30 | Open; On Track |
+| SUP-10 | Complete archive-readiness review and outstanding-action closure checks | Study Lead + CRO + functional owners | **Dec 10** | **PM-approved planning** | M13 and M14 ? M15 Dec 21 | Open; On Track |
+
+## Capacity and conditional forecast controls
+
+- Four sites plan 12/10/8/6 participants; three dose groups of 12 are independent of sites. All 36 completing 108 administrations and EOS is a simulation assumption, not an achieved outcome.
+- AV-S01 retains two Monday/Friday initial-administration slots weekly. The lost opening week moves its last pair to May 24/28. ACT-05 brings only the May 28 slot forward to May 25, with enrollment moved from May 21 to May 18. May 24 administration and May 17 enrollment remain. No earlier extra slot is assumed.
+- AV-S02?04 activate by April 23, enroll no earlier than April 26, and administer initially no earlier than May 3. Weekly initial-administration counts for weeks beginning May 3/10/17 remain 4/4/2, 3/3/2, and 2/2/2 respectively; enrollment ends May 14 and initial administrations May 21.
+- Each enrollment is seven calendar days before initial administration. The ten-visit schedule retains Week -1 screening, Week 0 initial administration, follow-up Weeks 1/5/9/12/14, boosters Weeks 4/8, and EOS Week 16. Existing visits cannot be displaced for extra capacity.
+- ACT-05 must confirm the added May 18/25 appointments and June 1, June 22 (booster), June 29, July 20 (booster), July 27, August 17, August 31, and September 14 (EOS) coverage by May 14. Pending confirmation is not evidence of threatened delivery.
+- If ACT-05 capacity is unavailable, use the established post-issue forecasts: enrollment May 21, initial-dose completion May 28, and the post-issue downstream column. Do not mark this fallback as the current forecast without that trigger.
+- September 28?October 12 provides the established ten-working-day final-reconciliation window after transfer acceptance. The October 5 planning target leaves five working days for final review/sign-off; these are inside that window. Earlier rolling cleaning is required. No new float is added. Escalate if evidence threatens the target or remaining work materially exceeds available time.
+- A prerequisite forecast to miss its due date and move a dependent milestone is escalated to the Sponsor within one business day. Lab issue closure does not close ACT-05 or establish subsequent milestone completion.
+
+Traceability: LAB-D01 ? ISS-01 ? M03?M06 and affected downstream milestones ? ESC-01 / DEC-01 ? ACT-01?05. Existing canonical milestone dates and approval authorities are preserved. SUP references identify supporting rows in this tracker only.
