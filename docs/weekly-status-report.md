@@ -1,6 +1,6 @@
 # Study Status Dashboard / Weekly Report - SIM-001
 
-**Step 7 complete. As of April 12, 2027.** Independent fictional simulation, not professional clinical-trial management experience. No Step 8 work is included; no Step 8 artifact is established in the current portfolio plan.
+**Step 7 complete. As of April 12, 2027.** Independent fictional simulation, not professional clinical-trial management experience. Step 8 is complete in the separate [capacity feasibility assessment](enrollment-visit-capacity-assessment.md); this Apr 12 reporting assessment is unchanged.
 
 Audience: Study Lead + CRO Lead as the standing weekly core, with relevant functional owners participating under the existing agenda-based rules. This combined, layered snapshot selects management-relevant information from the [timeline](integrated-study-timeline.md), [RACI/governance](raci-governance.md), [RAID log](raid-log.md) and [deliverables tracker](vendor-deliverables-tracker.md). It does not replace those working records or transfer authority.
 
