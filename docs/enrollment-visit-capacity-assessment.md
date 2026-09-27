@@ -1,6 +1,6 @@
 # Enrollment and Visit-Capacity Feasibility Assessment - SIM-001
 
-**Step 8 complete.** Scope: AV-S01 through AV-S04, April 12 through September 17, 2027. Evidence context remains the April 12 snapshot. Independent fictional simulation, not professional site-management or clinical-project-management experience. Step 9 is not defined or started.
+**Step 8 complete.** Scope: AV-S01 through AV-S04, April 12 through September 17, 2027. Evidence context remains the April 12 snapshot. Independent fictional simulation, not professional site-management or clinical-project-management experience. Step 9 is complete in the separate [execution-tracking case study](execution-tracking-case-study.md); this assessment retains its Apr 12 evidence basis.
 
 Inputs: existing `docs/study-assumptions.md` site-capacity and visit assumptions; [timeline](integrated-study-timeline.md); [RACI/governance](raci-governance.md); [RAID log](raid-log.md); [deliverables tracker](vendor-deliverables-tracker.md); and [weekly report](weekly-status-report.md). This assessment adds no participant records, daily resource model or new operational capacity quantities. Case comparisons do not replace current forecasts.
 
@@ -81,4 +81,4 @@ If confirmation identifies a timing/capacity concern, assess the exception's aff
 
 RSK-01 remains open with its approved provisional assessment; RSK-02 and all other RAID records remain unchanged. Routine premises and pickup checkpoints do not demonstrate control effectiveness or authorize risk acceptance. Existing milestone forecasts/health, ACT-05 status, issue status and the Step 7 Apr 12 **On Track / Sufficient** assessment are preserved. Neither hypothetical Case B nor the Sep 17 bound triggers automatic reforecasting of the Step 6 final-Lab sequence; an actual change would require dependency assessment through established governance.
 
-Owner monitoring and agenda-based functional participation remain in force. If a prerequisite is forecast to miss its due date and move a dependent milestone, escalate to the Sponsor decision owner within one business day; do not wait for a weekly report or pickup checkpoint. Sponsor involvement follows existing authority and triggers. This assessment creates no new approval authority, staffing commitments, mitigations or Step 9 scope.
+Owner monitoring and agenda-based functional participation remain in force. If a prerequisite is forecast to miss its due date and move a dependent milestone, escalate to the Sponsor decision owner within one business day; do not wait for a weekly report or pickup checkpoint. Sponsor involvement follows existing authority and triggers. This assessment creates no new approval authority, staffing commitments, mitigations or subsequent-step scope.

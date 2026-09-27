@@ -1,6 +1,6 @@
 # RAID / Issue / Decision / Escalation Log - SIM-001
 
-**Step 5 complete. Reporting as of April 12, 2027.** Independent fictional study-operations simulation, not a claim of professional clinical-trial management experience. Step 6 is complete; its approved timing amendments are reflected here. Step 7 is complete: [current weekly report](weekly-status-report.md).
+**Step 5 complete. Canonical execution evidence updated through April 23, 2027 (Step 9); prospective assessments otherwise unchanged.** Independent fictional study-operations simulation, not a claim of professional clinical-trial management experience. Step 6 is complete; its approved timing amendments are reflected here. Step 7 is complete: [historical Apr 12 weekly report](weekly-status-report.md).
 
 Basis: existing `docs/study-assumptions.md`, sections 2-5; [Step 3 timeline](integrated-study-timeline.md); [Step 4 RACI + Governance](raci-governance.md); and PM-approved Step 5 assessments and rules. All dates below are in 2027. Established responsibilities, authority and assessments are unchanged; only the approved Step 6 timing amendments below supersede earlier planning references. The separate courier exercise is not DEC-01 and does not amend this scenario.
 
@@ -59,7 +59,7 @@ These are traceability entries, not new assumptions, acceptance decisions or ind
 | Enrollment is Week -1; boosters Weeks 4/8; EOS Week 16; extra capacity cannot displace existing visits | Sites/Investigators; ACT-05 / RSK-01 | Preserve full downstream coverage, participant totals and visit intervals. |
 | Lab quality release and operational acceptance precede site activation; each site must satisfy its own prerequisites | Lab Quality; Sponsor; M03/M04/M07 | ISS-01 resolution and AV-S01 activation do not establish other sites' completion. |
 | Final lab-transfer acceptance follows LPLV; final reconciliation and required sign-offs precede lock | Lab; DM; Safety; required M12 signatories; RSK-02 | Use approved Oct 4 acceptance planning target (prior Sep 28), conditional Oct 12 reconciliation and unchanged Oct 19 lock; no invented float. |
-| Approved supporting-activity dates are planning targets; completion requires explicit evidence within the reporting cutoff | Step 3 owners and evidence rules | Future scripted M05/M06 outcomes and later forecasts are not April 12 actuals. |
+| Approved supporting-activity dates are planning targets; completion requires explicit evidence within the reporting cutoff | Step 3 owners and evidence rules | M05/M06 are now evidenced actuals Apr 16/19 through Step 9; those confirmations do not alter the historical Apr 12 report. Other elapsed targets do not imply completion. |
 
 ## Occurred issue: ISS-01
 
@@ -71,7 +71,7 @@ These are traceability entries, not new assumptions, acceptance decisions or ind
 | Owner / authority | Lab owns correction and package delivery; Lab Quality releases; Study Lead coordinates recovery; Sponsor accepts operational readiness |
 | Original due date / immediate impact | LAB-D01 due Mar 19; held kits/manual appendices block M03 and dependent activation M04, threatening M06. No participant samples collected and no patient-data or safety event involved. |
 | Initial unmitigated outlook | Package Apr 9; activation approximately Apr 16; first administration approximately Apr 26. These are the rejected unmitigated outlook, not current forecasts. |
-| Approved recovery and linked records | DEC-01 on Mar 15; ESC-01 on Mar 12; ACT-01 through ACT-05. M03 accepted Apr 2, M04 activated Apr 9; M05 Apr 16 and M06 Apr 19 remain future forecasts as of this log. |
+| Approved recovery and linked records | DEC-01 on Mar 15; ESC-01 on Mar 12; ACT-01 through ACT-05. M03 accepted Apr 2, M04 activated Apr 9; M05 actual Apr 16 and M06 actual Apr 19 are confirmed by approved Step 9 evidence. |
 | Downstream forecast effects | Enrollment May 14 baseline / May 21 post-issue / May 18 revised; initial-dose completion May 21 / May 28 / May 25. Revised full administration Jul 20, LPLV Sep 14, archival Dec 21; four-calendar-day residual baseline variance. M07 forecast remains Apr 23. |
 | Status / closure evidence | Resolved Apr 2. Canonical scripted evidence: passing retest and lab quality release Mar 26; AV-S01 kit receipt and Sponsor acceptance Apr 2. Evidence is the simulation source narrative, not independently attached operational records. |
 | Continuing work | ACT-05 remains open; readiness and later milestones are not closed by issue resolution. The source records a future-handoff version check, but does not establish effectiveness for either prospective risk. |
@@ -85,14 +85,14 @@ These are traceability entries, not new assumptions, acceptance decisions or ind
 
 DEC-01 alternatives: accept the unmitigated delay with first dosing approximately Apr 26, or evaluate another lab. Another lab was rejected because setup, agreements and readiness testing were not a credible near-term recovery. Approval does not permit unreleased kits, omitted reviews or clinical/safety/quality waivers. The courier exercise's $1,200 alternative and Apr 12/14 dosing scenario are not part of this decision.
 
-## Linked action status at April 12
+## Linked action status with approved Step 9 updates
 
 | Action | Existing owner | Established due date / window | Evidence-supported status |
 |---|---|---|---|
 | ACT-01: mapping correction, labels, retest and quality release | Lab / Lab Quality | Mar 26 | Completed Mar 26 in canonical scripted outcome |
 | ACT-02: initial-kit shipment, receipt and package acceptance evidence | Lab + Logistics / Sponsor acceptance | Apr 2 | Completed Apr 2 in canonical scripted outcome; remaining sites' supplies still precede their own gates |
 | ACT-03: parallel startup, package-specific training/readiness | CRO + AV-S01; Study Lead coordination | Apr 5-9 package-specific review | M04 activation evidenced Apr 9; separate task-completion record not asserted |
-| ACT-04: targets, communication, recovery monitoring and first-dose readiness | Study Lead + AV-S01 | Mar 15 targets; daily recovery through Apr 2; readiness Apr 16 | Open for future readiness; Sponsor's decision is evidenced, but separate communication completion is not inferred |
+| ACT-04: targets, communication, recovery monitoring and first-dose readiness | Study Lead + AV-S01 | Mar 15 targets; daily recovery through Apr 2; readiness Apr 16 | Readiness component completed Apr 16; Sponsor's decision is evidenced, but separate communication completion and full action closure are not inferred |
 | ACT-05: reserve and confirm additional appointments/full downstream coverage | AV-S01 Investigator/coordinator; CRO + Logistics support | Apr 23 reservation; May 14 full confirmation | Open; capacity evidence pending. Linked RSK-01 is prospective, not an occurred failure. |
 
 ## Review, escalation and closure controls
@@ -106,3 +106,9 @@ DEC-01 alternatives: accept the unmitigated delay with first dosing approximatel
 - Continuing controls retain their established owners after risk closure and do not stop unless established study requirements separately support that change. No new approval authority is created. Occurrence is handled as an issue; it does not retroactively justify an invented probability or control-effectiveness claim.
 
 Traceability: LAB-D01 -> ISS-01 -> ESC-01 / DEC-01 -> ACT-01 through ACT-05 and affected Step 3 milestones. RSK-01 links ACT-05; RSK-02 links SUP-04/SUP-05/SUP-06 and M11/M12. The two provisional assessments are not risk acceptance or approval of additional mitigation.
+
+## Step 9 canonical execution follow-through
+
+See [Scenario B execution evidence](execution-tracking-case-study.md). Enrollment actual Apr 12 was confirmed Apr 16; M05 completed Apr 16 and M06 completed Apr 19. The Apr 19 pickup was 90 minutes late after dispatch handoff omitted the driver assignment; no handling, receipt, Site-schedule or downstream impact was reported. Logistics implemented driver acknowledgment and receiving-dispatcher verification. Apr 21 readiness confirmation supported the Apr 23 pickup, which occurred on schedule without an exception. Control operation is evidenced for that event only; retain the ongoing control without a broader effectiveness claim. No new formal risk/issue identifier, escalation, health change or formal exception closure is invented.
+
+ACT-05 and RSK-01 remain Open with unchanged ratings. Apr 16 evidence identified no new threat; it did not confirm added capacity. No Apr 23 reservation outcome was supplied. The pickup checkpoint does not establish reservation completion or justify a new risk rating. Scenario C alternative evidence is excluded from this log.
