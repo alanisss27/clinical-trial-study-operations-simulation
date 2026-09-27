@@ -2,7 +2,7 @@
 
 **Step 8 complete.** Scope: AV-S01 through AV-S04, April 12 through September 17, 2027. Evidence context remains the April 12 snapshot. Independent fictional simulation, not professional site-management or clinical-project-management experience. Step 9 is complete in the separate [execution-tracking case study](execution-tracking-case-study.md); this assessment retains its Apr 12 evidence basis.
 
-Inputs: existing `docs/study-assumptions.md` site-capacity and visit assumptions; [timeline](integrated-study-timeline.md); [RACI/governance](raci-governance.md); [RAID log](raid-log.md); [deliverables tracker](vendor-deliverables-tracker.md); and [weekly report](weekly-status-report.md). This assessment adds no participant records, daily resource model or new operational capacity quantities. Case comparisons do not replace current forecasts.
+Inputs: existing [study assumptions](study-assumptions.md) site-capacity and visit assumptions; [timeline](integrated-study-timeline.md); [RACI/governance](raci-governance.md); [RAID log](raid-log.md); [deliverables tracker](vendor-deliverables-tracker.md); and [weekly report](weekly-status-report.md). This assessment adds no participant records, daily resource model or new operational capacity quantities. Case comparisons do not replace current forecasts.
 
 ## Evidence basis and assessment standard
 

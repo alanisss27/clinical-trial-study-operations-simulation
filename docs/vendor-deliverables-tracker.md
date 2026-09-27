@@ -2,7 +2,7 @@
 
 **Step 6 complete. Reporting as of April 12, 2027.** Independent fictional simulation, not professional vendor-oversight experience. Step 7 is complete: [current weekly report](weekly-status-report.md).
 
-Inputs: existing `docs/study-assumptions.md`, [timeline](integrated-study-timeline.md), [RACI + Governance](raci-governance.md), [RAID log](raid-log.md), and approved Step 6 PM decisions. This document records the authoritative Step 6 timing amendments to the earlier source: final Lab acceptance Oct 4 instead of Sep 28; reconciliation completion planning target Oct 12 instead of Oct 5. Earlier references remain historical, not concurrent commitments. No other milestone date, ownership, health classification, escalation trigger or approval authority changes. The courier exercise remains separate.
+Inputs: existing [study assumptions](study-assumptions.md), [timeline](integrated-study-timeline.md), [RACI + Governance](raci-governance.md), [RAID log](raid-log.md), and approved Step 6 PM decisions. This document records the authoritative Step 6 timing amendments to the earlier source: final Lab acceptance Oct 4 instead of Sep 28; reconciliation completion planning target Oct 12 instead of Oct 5. Earlier references remain historical, not concurrent commitments. No other milestone date, ownership, health classification, escalation trigger or approval authority changes. The courier exercise remains separate.
 
 ## Reading the tracker
 
