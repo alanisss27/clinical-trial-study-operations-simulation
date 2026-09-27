@@ -1,6 +1,6 @@
 # RACI + Governance - SIM-001
 
-**Step 4 complete.** Standing responsibility framework aligned to the April 12, 2027 reporting snapshot in the [Step 3 timeline](integrated-study-timeline.md). Independent fictional simulation; these roles do not represent the portfolio author's professional experience. Step 5, the RAID / Issue / Decision / Escalation Log, has not started.
+**Step 4 complete.** Standing responsibility framework aligned to the April 12, 2027 reporting snapshot in the [Step 3 timeline](integrated-study-timeline.md). Independent fictional simulation; these roles do not represent the portfolio author's professional experience. Steps 5 and 6 are complete; Step 7 has not started.
 
 Basis: existing `docs/study-assumptions.md`, sections 2-5; the completed Step 3 timeline; and the PM-approved Step 4 governance decisions. This artifact changes no dates, completion claims, forecast rules, or approval boundaries. The courier exercise remains separate.
 
@@ -78,6 +78,6 @@ If a required function cannot attend, obtain sufficient written input/approval w
 
 The Lead prepares the impact, dependency, options and decision request; Sponsor-level resolution does not override clinical, safety or quality prerequisites. The established lab issue uses daily recovery checks until the blocking deliverable is accepted. As of April 12, LAB-D01 acceptance and ISS-01 resolution are evidenced on April 2; this does not keep lab daily recovery checks active or close remaining ACT-05 work.
 
-Keep the Step 3 controls intact: baseline variance is separate from On Track / At Risk / Blocked delivery health; pending ACT-05 confirmation alone does not create At Risk status. A threatened confirmation deadline or materially insufficient buffer does. The September 28 to October 12 final-reconciliation window remains schedule-sensitive and depends on earlier rolling cleaning; governance adds no float. Approval of planning dates is not evidence of historical completion.
+Keep the Step 3 controls intact: baseline variance is separate from On Track / At Risk / Blocked delivery health; pending ACT-05 confirmation alone does not create At Risk status. A threatened confirmation deadline or materially insufficient buffer does. The Step 6 approved Oct 4 acceptance to Oct 12 reconciliation sequence remains schedule-sensitive and depends on the approved fictional earlier-cleaning and remaining-work assumptions; governance adds no float. Prior Sep 28 acceptance and Oct 5 completion targets are historical references, as recorded in the [deliverables tracker](vendor-deliverables-tracker.md). Approval of planning dates is not evidence of historical completion.
 
 The Lead maintains issue/action visibility and approved target communication using the existing references LAB-D01, ISS-01, ESC-01, DEC-01 and ACT-01 through ACT-05. This framework does not create new issue/decision records or implement the Step 5 log.
