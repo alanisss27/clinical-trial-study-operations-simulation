@@ -1,6 +1,6 @@
 # RAID / Issue / Decision / Escalation Log - SIM-001
 
-**Step 5 complete. Reporting as of April 12, 2027.** Independent fictional study-operations simulation, not a claim of professional clinical-trial management experience. Step 6 is complete; its approved timing amendments are reflected here. Step 7 has not started.
+**Step 5 complete. Reporting as of April 12, 2027.** Independent fictional study-operations simulation, not a claim of professional clinical-trial management experience. Step 6 is complete; its approved timing amendments are reflected here. Step 7 is complete: [current weekly report](weekly-status-report.md).
 
 Basis: existing `docs/study-assumptions.md`, sections 2-5; [Step 3 timeline](integrated-study-timeline.md); [Step 4 RACI + Governance](raci-governance.md); and PM-approved Step 5 assessments and rules. All dates below are in 2027. Established responsibilities, authority and assessments are unchanged; only the approved Step 6 timing amendments below supersede earlier planning references. The separate courier exercise is not DEC-01 and does not amend this scenario.
 

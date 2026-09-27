@@ -1,6 +1,6 @@
 # Integrated Study Timeline + Milestone Tracker ? SIM-001
 
-**Step 3 complete. Reporting as of April 12, 2027.** Independent fictional simulation; not professional clinical-trial management experience. Steps 4-6 are complete; Step 6 timing amendments are recorded below and in the [deliverables tracker](vendor-deliverables-tracker.md). Step 7 has not started.
+**Step 3 complete. Reporting as of April 12, 2027.** Independent fictional simulation; not professional clinical-trial management experience. Steps 4-6 are complete; Step 6 timing amendments are recorded below and in the [deliverables tracker](vendor-deliverables-tracker.md). Step 7 is complete: [current weekly report](weekly-status-report.md).
 
 ## Controls and interpretation
 

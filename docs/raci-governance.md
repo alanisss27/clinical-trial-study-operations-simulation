@@ -1,6 +1,6 @@
 # RACI + Governance - SIM-001
 
-**Step 4 complete.** Standing responsibility framework aligned to the April 12, 2027 reporting snapshot in the [Step 3 timeline](integrated-study-timeline.md). Independent fictional simulation; these roles do not represent the portfolio author's professional experience. Steps 5 and 6 are complete; Step 7 has not started.
+**Step 4 complete.** Standing responsibility framework aligned to the April 12, 2027 reporting snapshot in the [Step 3 timeline](integrated-study-timeline.md). Independent fictional simulation; these roles do not represent the portfolio author's professional experience. Steps 5 and 6 are complete; Step 7 is complete: [current weekly report](weekly-status-report.md).
 
 Basis: existing `docs/study-assumptions.md`, sections 2-5; the completed Step 3 timeline; and the PM-approved Step 4 governance decisions. This artifact changes no dates, completion claims, forecast rules, or approval boundaries. The courier exercise remains separate.
 
