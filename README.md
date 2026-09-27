@@ -33,6 +33,18 @@ flowchart LR
 2. **[Weekly Status Report](docs/weekly-status-report.md)** - The **Apr 12, 2027 historical snapshot** demonstrates concise cross-functional reporting, separate health/evidence-confidence assessment and exception-focused communication.
 3. **[Enrollment and Visit-Capacity Assessment](docs/enrollment-visit-capacity-assessment.md)** - Tests conditional feasibility and dependency implications across four sites without inventing unsupported capacity.
 
+## Selected PM Decisions
+
+Representative judgments within this independent fictional simulation, not professional CPM experience:
+
+| Situation | PM decision | PM principle |
+|---|---|---|
+| **Alternative exercise:** First administration occurred Apr 21 instead of Apr 19 (+2 calendar days), shifting downstream visits. | Reforecast visits, assess milestone/dependency impacts and obtain Site/logistics confirmation. No compression or recovery was needed: no material downstream impact was identified. | Variance alone does not require recovery; respond to demonstrated impact. |
+| **Canonical execution:** Apr 19 administration occurred as planned; pickup was 90 minutes late. | Keep the milestone Completed; track the exception separately through cause clarification, corrective handoff checks and Apr 23 event-level verification. | Separate milestone outcome from exception impact. One successful event does not prove broad control effectiveness. |
+| **Pending dependency:** AV-S01 added enrollment and visit-capacity confirmation (ACT-05) remained open. | Keep it visible; assess threats to confirmation deadlines, available buffer and downstream delivery before changing health. Apply existing escalation triggers independently. | Unconfirmed work is not automatically At Risk; health reflects evidence of material delivery threat. |
+
+[Detailed evidence and follow-through](docs/execution-tracking-case-study.md).
+
 ## Complete artifact index
 
 | Capability demonstrated | Artifact |
